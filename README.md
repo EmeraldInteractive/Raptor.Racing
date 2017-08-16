@@ -1,5 +1,3 @@
-# README #
-
 # Welcome to the test build of Raptor Racing!
 
 ## Thank you so much for your interest, to get started simply download this repo and run the .exe game file.
