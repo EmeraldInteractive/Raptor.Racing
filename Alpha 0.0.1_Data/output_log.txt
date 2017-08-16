@@ -7,27 +7,27 @@ Direct3D:
     VRAM:     3072 MB
     Driver:   21.21.13.7654
 Begin MonoManager ReloadAssembly
-Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.dll (this message is harmless)
-Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
-Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
-Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
-Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
-Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
-Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
-Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\System.dll (this message is harmless)
-Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.1_Data\Managed\System.Core.dll (this message is harmless)
-- Completed reload, in  0.152 seconds
+Platform assembly: E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Sites\Github\Raptor.Racing\Alpha 0.0.1_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  2.080 seconds
 <RI> Initializing input.
 <RI> Input initialized.
 <RI> Initialized touch support.
-UnloadTime: 1.700740 ms
+UnloadTime: 1.150419 ms
 Setting up 4 worker threads for Enlighten.
-  Thread -> id: 27e8 -> priority: 1 
-  Thread -> id: 2c88 -> priority: 1 
-  Thread -> id: 14e0 -> priority: 1 
-  Thread -> id: 4f34 -> priority: 1 
+  Thread -> id: 204c -> priority: 1 
+  Thread -> id: 5ccc -> priority: 1 
+  Thread -> id: 3e4c -> priority: 1 
+  Thread -> id: 28e8 -> priority: 1 
