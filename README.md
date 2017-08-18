@@ -4,7 +4,7 @@
 
 ### Raptor Racing ###
 
-* A racing game where the players control raptors, run super fast, and platform into new areas.
+* A racing game where the players control raptors, run super fast, and platform into new areas. The goal of the game is to catch your prey before your opponents do. Will you survive?
 * Version Alpha 0.0.1
 
 ### How do I get set up? ###
@@ -12,8 +12,11 @@
 * git clone https://github.com/EmeraldInteractive/Raptor.Racing.git
 * Or just download the zip file and run the executable
 
-### Contribution guidelines ###
+### What should I do? ###
 
+* Please download and play the .exe file and let us know about any and every bug you find
+* Feedback about the game's progress or new features
+* Report any suggestions that might improve the game to the issues tab
 * Report any bugs you find to the issues tab
 * Send any ideas to __< COMING SOON >__ or put them in the issue tab
 
