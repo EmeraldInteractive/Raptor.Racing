@@ -5,7 +5,6 @@
 ### Raptor Racing ###
 
 * A racing game where the players control raptors, run super fast, and platform into new areas. The goal of the game is to catch your prey before your opponents do. Will you survive?
-* Version Alpha 0.0.1
 
 ### How do I get set up? ###
 
