@@ -1,0 +1,47 @@
+Initialize engine version: 2017.1.0f3 (472613c02cf7)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.0]
+    Renderer: NVIDIA GeForce GTX 960M (ID=0x139b)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   21.21.13.7654
+Begin MonoManager ReloadAssembly
+Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.Timeline.dll (this message is harmless)
+Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.Timeline.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.Analytics.dll (this message is harmless)
+Loading E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\UnityEngine.Analytics.dll into Unity Child Domain
+Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\System.dll (this message is harmless)
+Platform assembly: E:\Unity Projects\Raptor.Racing\Build\Alpha 0.0.5_Data\Managed\System.Core.dll (this message is harmless)
+- Completed reload, in  0.355 seconds
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 1.671109 ms
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 112e0 -> priority: 1 
+  Thread -> id: ef88 -> priority: 1 
+  Thread -> id: 12c08 -> priority: 1 
+  Thread -> id: 12424 -> priority: 1 
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+DontDestroyOnLoad only work for root GameObjects or components on root GameObjects.
+ 
+(Filename:  Line: 481)
+
+Unloading 5 Unused Serialized files (Serialized files now loaded: 0)
+UnloadTime: 1.457776 ms
+
+Unloading 10 unused Assets to reduce memory usage. Loaded Objects now: 1902.
+Total: 15.111099 ms (FindLiveObjects: 0.095999 ms CreateObjectMapping: 0.050172 ms MarkObjects: 10.928979 ms  DeleteObjects: 4.035552 ms)
+
