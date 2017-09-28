@@ -23,6 +23,3 @@
 
 * Wiki
 * Github Pages test site landing page
-
-
-#### Copyright 2017 Emerald Interactive, LLC
